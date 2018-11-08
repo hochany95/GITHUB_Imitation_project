@@ -1,0 +1,68 @@
+<style type="text/css">
+.project3
+{
+  width:600px;
+  margin-left:200px;
+  position: relative;
+ }
+ #three_first
+ {
+  padding :10px 5px 10px 5px;
+  font-size: 20px;
+  color: #787878;
+  text-align: left;
+  margin-bottom: 5px;
+  }
+ .three_second
+ {
+   list-style-type: none;
+   border: 1px solid #EBEBEB;
+   height: 45px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+
+  }
+  #three_second_one
+  {
+    display: inline;
+    width: 100px;
+    height: 50px;
+    padding: 0 12.5px 0 12.5px;
+    margin: 0;
+    color: #979797;
+    }
+  #three_second_two{
+    background-color: #F1E05A;
+    padding: 5px;
+  }
+  .three_third{
+    margin: 10px 0 10px 0;
+
+  }
+  #three_third_one{
+    width: 40px;
+    height: 30px;
+    padding: 5px 10px 5px 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: #7BCD5E;
+    float: left;
+
+  }
+  #three_third_two{
+    float: left;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #three_third_three{
+    font-size: 20px;
+    color: #4F83C5;
+    float:left;
+    margin-right: 5px;
+  }
+  #three_third_four{
+    float: right;
+
+  }
+  </style>
